@@ -1,9 +1,6 @@
-bin/
-build/
-blocks/
-bii/build
-bii/cmake
-bii/deps
-bii/lib
-bii/.hive.db
-build.log
+*.dat
+.idea/
+*.swp
+.DS_Store
+*build*/
+*install*/
